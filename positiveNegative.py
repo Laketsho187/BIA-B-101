@@ -27,3 +27,13 @@ userinput = input()
 userInputType = type(userinput)
 print('The type of user input is:', userinput)
 
+userInputNumber = float(userinput)
+print('The type of userInputNumber is:', type(userInputNumber))
+
+#2,3    If else statement and print
+if userInputNumber >0:
+    print('The number is positive')
+elif userInputNumber <0:
+    print('The number is Negative')
+elif userInputNumber ==0:
+    print('The number is zero')
