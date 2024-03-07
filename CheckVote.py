@@ -7,6 +7,7 @@
         # if above 18 print ('You can Vote')
         # if below 18 print ('You cant Vote')
 
+# Get user input
 userinput = input('Please type your age: ')
 Your_age = int(userinput)
 
