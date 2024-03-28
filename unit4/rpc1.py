@@ -14,7 +14,7 @@
 # use if else statements to compare the permutations
 # have a variable that keeps track of the score
 # after every if else statement, add the score to the score
-[12:38, 22/03/2024] Palden: # read input.txt file and put it to an array
+ # read input.txt file and put it to an array
 with open("input.txt") as f:
     lines = f.readlines()
 
